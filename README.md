@@ -4,5 +4,7 @@
 Umieść pliki w folderze z grą
 <h1>Screeny</h1>
 ![menu](https://github.com/bayerchemistry/domekblupiego/blob/main/01.png)
+
 ![settings](https://github.com/bayerchemistry/domekblupiego/blob/main/02.png)
+
 ![quit](https://github.com/bayerchemistry/domekblupiego/blob/main/03.png)
